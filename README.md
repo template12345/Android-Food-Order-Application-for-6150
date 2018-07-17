@@ -13,6 +13,6 @@ Android API 26, nexus4 or later
  
 ## Functionalities
 * Provided sign in/sign up function
-* Menu and food list loading
+* On time menu and food list update
 * Orders management process
 * Notifications for users
