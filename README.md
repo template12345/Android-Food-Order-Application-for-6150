@@ -11,7 +11,7 @@ Android API 26, nexus4 or later
 * Applied MVC pattern design style for client side & server side
 * Applied multi-threading manipulation, synchronization, JUnit Runner test asback end
  
-## Functionality
+## Functionalities
 * Provided sign in/sign up function
 * Menu and food list loading
 * Orders management process
