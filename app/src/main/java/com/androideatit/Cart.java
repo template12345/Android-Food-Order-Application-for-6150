@@ -449,7 +449,7 @@ public class Cart extends AppCompatActivity {
             System.err.println("The order id is " + order.getProductId());
             if(order.getProductId().equals(order1)){
                 System.err.println(order.getProductName());
-                System.err.println("I CAME HERE FUCK YEAAAAAHHHHHH");
+                System.err.println("ERROR Tester: YEAAAAAHHHHHH");
                 new Database(getBaseContext()).removeFromCart(order1);
             }
         }
